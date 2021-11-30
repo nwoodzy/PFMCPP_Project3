@@ -95,6 +95,46 @@ Sub Object 5: Seat
 
  Wait for my code review.
  */
+ /*
+
+    Part 1b: you will write 4 un-related UDTs in plain english
+
+    person named Nick
+    their weight is 170 pounds
+    height is 6'3"
+    hand preference is right
+    eye color is blue
+    is tired is false
+
+    guitar named telecaster
+    body color is beige
+    pickups style is humbuckers
+    fretboard wood type is maple
+    country of manufacture is Mexico
+    is plugged in is true
+
+    day named today
+    percipitation type is snowing
+    temperature high is 3c
+    temperature low is -2c
+    the date is 11/03/2021
+    sunset time is 4:33pm
+
+    screen named monitor1
+    width is 1024
+    height is 768
+    brightness is 70%
+    is on is true
+
+
+
+    Part 1c: you will write 1 UDT in plain english that will be made of 5 related sub-objects
+
+    parking lot named north
+    parking lot has 
+    Part 1d: you will write plain-english UDTs for the 5 sub-objects that form the UDT defined in Part 1c
+    Part 1e: you will convert those 10 plain-english UDTs into code that runs.
+ */
 
 #include <iostream>
 int main()
