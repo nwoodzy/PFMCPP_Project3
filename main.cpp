@@ -130,8 +130,16 @@ Sub Object 5: Seat
 
     Part 1c: you will write 1 UDT in plain english that will be made of 5 related sub-objects
 
-    parking lot named north
-    parking lot has 
+    dog named woof
+    has a tail
+    has a collar 
+    barks alot
+    weight is 25 lbs
+    has a short leash
+
+
+    
+
     Part 1d: you will write plain-english UDTs for the 5 sub-objects that form the UDT defined in Part 1c
     Part 1e: you will convert those 10 plain-english UDTs into code that runs.
  */
