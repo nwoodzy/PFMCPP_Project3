@@ -46,8 +46,8 @@ Sub Object 2: Instrument Cluster
     Name 4 things you'll find on the:   Instrument Cluster
         1) speedometer
         2) odometer
-        3) gear selector
-        4) thermometer
+        3) gear selection indicator
+        4) thermometer display
     Name 3 things you can do with the:   Instrument Cluster
         1) reset odometer
         2) select C or F for thermometer reading
@@ -69,9 +69,9 @@ Sub Object 4: Infotainment System
         2) radio tuner
         3) volume control
     Name 3 things you can do with the:   Infotainment System
-        1) turn it on
-        2) select a radio station
-        3) set volume
+        1) turn on Infotainment System
+        2) select a radio station 
+        3) select a volume
 
 Sub Object 5: Seat 
     Name 3 things you'll find on the:    Seat
@@ -79,8 +79,8 @@ Sub Object 5: Seat
         2) forward or back knob
         3) headrest adjuster
     Name 2 things you can do with the:   Seat
-        1) recline back
-        2) move seat forward
+        1) select angle of recline
+        2) select distance to pedals
 */
 /*
  MAKE SURE YOU ARE NOT ON THE MASTER BRANCH
