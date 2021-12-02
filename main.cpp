@@ -133,18 +133,64 @@ Sub Object 5: Seat
     dog named woof
     has a tail
     has a collar 
-    barks alot
-    weight is 25 lbs
-    has a short leash
+    barks
+    physique
+    has a leash
 
 
     
 
     Part 1d: you will write plain-english UDTs for the 5 sub-objects that form the UDT defined in Part 1c
+
+    body part named tail
+    color is brown
+    hair length is long
+    length is short
+
+    accessory named collar
+    color is black
+    length is 15 inches 
+    width is 1 inch
+    decoration is spikes
+
+    sound named bark
+    volume is 85db
+    pitch is high
+
+    body modifier named physique
+    weight is 25 lbs
+    body type is scrawny
+    has long hair
+
+    accessory named leash
+    color is yellow
+    length is 96 inches 
+    width is 1 inch
+    decoration is clip
+
     Part 1e: you will convert those 10 plain-english UDTs into code that runs.
  */
 
 #include <iostream>
+
+struct Person
+{
+    int weight;
+    int height;
+    bool handPreferenceRight;
+    std::str eyeColor = blue;
+    bool isTired;
+};
+
+struct guitar
+{
+    int color;
+    bool isPluggedIn; 
+    bool isElectric;
+
+}
+
+
 int main()
 {
     std::cout << "good to go!" << std::endl;
